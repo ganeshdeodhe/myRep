@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TestSuite]">
+  <test name="Test case1(failed)">
+    <classes>
+      <class name="persistent.AutomationM.logger">
+        <methods>
+          <include name="loginWeb"/>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- persistent.AutomationM.logger -->
+    </classes>
+  </test> <!-- Test case1(failed) -->
+</suite> <!-- Failed suite [TestSuite] -->

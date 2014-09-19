@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TestSuite" parallel="false">
+  <test name="Test case1">
+    <classes>
+      <class name="persistent.login"/>
+     </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
